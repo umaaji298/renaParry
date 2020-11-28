@@ -11,7 +11,9 @@ PC/スマートフォンの最新のブラウザにて動作します。
 ## Demo
 
 非公開ゲームなのです。  
-ナイショなのです。
+ナイショなのです。  
+  
+![release_s](https://user-images.githubusercontent.com/48826557/100523782-5f913600-31f6-11eb-8cf3-36ea8ddf023b.png)
 
 ## VS.
 
